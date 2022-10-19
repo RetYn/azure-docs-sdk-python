@@ -1,12 +1,12 @@
 ---
 ms.topic: reference
-ms.devlang: python
-title: Azure Maps Geolocation SDK for Python
-ms.author: ttsao
+ms.data: 10/19/2022
 author: alextts627
 ms.service: mapsgeolocation
+ms.author: ttsao
+ms.devlang: python
 description: Reference for Azure Maps Geolocation SDK for Python
-ms.data: 10/18/2022
+title: Azure Maps Geolocation SDK for Python
 ---
 # Azure Maps Geolocation SDK for Python - preview
 
