@@ -1,11 +1,11 @@
 ---
-ms.devlang: python
-ms.author: lmazuel
-ms.data: 10/19/2022
-ms.service: core
-author: lmazuel
-title: Azure Core SDK for Python
 description: Reference for Azure Core SDK for Python
+title: Azure Core SDK for Python
+ms.data: 10/20/2022
+author: lmazuel
+ms.author: lmazuel
+ms.service: core
+ms.devlang: python
 ms.topic: reference
 ---
 # Azure Core SDK for Python - latest

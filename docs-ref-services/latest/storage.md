@@ -1,11 +1,11 @@
 ---
-ms.devlang: python
-ms.author: antisch
-ms.data: 10/19/2022
-ms.service: storage
-author: annatisch
-title: Azure Storage SDK for Python
 description: Reference for Azure Storage SDK for Python
+title: Azure Storage SDK for Python
+ms.data: 10/20/2022
+author: annatisch
+ms.author: antisch
+ms.service: storage
+ms.devlang: python
 ms.topic: reference
 ---
 # Azure Storage client libraries for Python

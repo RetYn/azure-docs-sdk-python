@@ -1,11 +1,11 @@
 ---
-ms.devlang: python
-ms.author: lmazuel
-ms.data: 10/19/2022
-ms.service: customproviders
-author: lmazuel
-title: Azure Custom Providers SDK for Python
 description: Reference for Azure Custom Providers SDK for Python
+title: Azure Custom Providers SDK for Python
+ms.data: 10/20/2022
+author: lmazuel
+ms.author: lmazuel
+ms.service: customproviders
+ms.devlang: python
 ms.topic: reference
 ---
 # Azure Custom Providers SDK for Python - preview
