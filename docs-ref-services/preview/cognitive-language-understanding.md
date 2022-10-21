@@ -1,12 +1,12 @@
 ---
-ms.data: 10/20/2022
-author: kristapratico
-ms.author: krpratic
-ms.service: cognitivelanguageunderstanding
-ms.devlang: python
-title: Azure Cognitive Language Understanding SDK for Python
 description: Reference for Azure Cognitive Language Understanding SDK for Python
 ms.topic: reference
+author: kristapratico
+ms.data: 10/21/2022
+ms.author: krpratic
+ms.service: cognitivelanguageunderstanding
+title: Azure Cognitive Language Understanding SDK for Python
+ms.devlang: python
 ---
 # Azure Cognitive Language Understanding SDK for Python - preview
 

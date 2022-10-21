@@ -1,12 +1,12 @@
 ---
-ms.data: 10/20/2022
-author: lmazuel
-ms.author: lmazuel
-ms.service: resourcehealth
-ms.devlang: python
-title: Azure Resource Health SDK for Python
 description: Reference for Azure Resource Health SDK for Python
 ms.topic: reference
+author: lmazuel
+ms.data: 10/21/2022
+ms.author: lmazuel
+ms.service: resourcehealth
+title: Azure Resource Health SDK for Python
+ms.devlang: python
 ---
 # Azure Resource Health SDK for Python - preview
 

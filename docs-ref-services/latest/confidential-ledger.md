@@ -1,12 +1,12 @@
 ---
-ms.data: 10/20/2022
-author: lmazuel
-ms.author: lmazuel
-ms.service: confidentialledger
-ms.devlang: python
-title: Azure Confidential Ledger SDK for Python
 description: Reference for Azure Confidential Ledger SDK for Python
 ms.topic: reference
+author: lmazuel
+ms.data: 10/21/2022
+ms.author: lmazuel
+ms.service: confidentialledger
+title: Azure Confidential Ledger SDK for Python
+ms.devlang: python
 ---
 # Azure Confidential Ledger SDK for Python - latest
 
