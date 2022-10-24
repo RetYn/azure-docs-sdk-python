@@ -1,0 +1,14 @@
+{
+  "Name": "azure-developer-devcenter",
+  "Version": "1.0.0a20221024001",
+  "DevVersion": "1.0.0a20221024001",
+  "DirectoryPath": "sdk/devcenter/azure-developer-devcenter",
+  "ServiceDirectory": "devcenter",
+  "ReadMePath": "sdk/devcenter/azure-developer-devcenter/README.md",
+  "ChangeLogPath": "sdk/devcenter/azure-developer-devcenter/CHANGELOG.md",
+  "Group": null,
+  "SdkType": "client",
+  "IsNewSdk": true,
+  "ArtifactName": "azure-developer-devcenter",
+  "ReleaseStatus": "2022-11-01"
+}
