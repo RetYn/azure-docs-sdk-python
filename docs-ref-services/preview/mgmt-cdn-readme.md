@@ -6,7 +6,7 @@ ms.author: lmazuel
 ms.date: 10/21/2022
 ms.topic: reference
 ms.devlang: python
-ms.service: cdn
+ms.service: azure-cdn
 ---
 # Microsoft Azure SDK for Python
 

@@ -220,7 +220,7 @@
         "docs-ref-autogen/**/azure.mgmt.authorization**.yml": "authorization",
         "docs-ref-autogen/**/azure.mgmt.batch**.yml": "batch",
         "docs-ref-autogen/**/azure.mgmt.billing**.yml": "billing",
-        "docs-ref-autogen/**/azure.mgmt.cdn**.yml": "cdn",
+        "docs-ref-autogen/**/azure.mgmt.azure-cdn**.yml": "azure-cdn",
         "docs-ref-autogen/**/azure.mgmt.cognitiveservices**.yml": "cognitive-services",
         "docs-ref-autogen/**/azure.mgmt.commerce**.yml": "billing",
         "docs-ref-autogen/**/azure.mgmt.compute**.yml": "virtual-machines",
