@@ -8,7 +8,7 @@ ms.topic: reference
 ms.prod: azure
 ms.technology: azure
 ms.devlang: python
-ms.service: cdn
+ms.service: azure-cdn
 ---
 # Microsoft Azure SDK for Python
 
